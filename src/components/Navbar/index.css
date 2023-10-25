@@ -1,0 +1,23 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 40px;
+  width: 80vw;
+  height: 20vh;
+}
+.nav-logo {
+  width: 100px;
+  height: 35px;
+}
+.nav-btn {
+  border-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  color: #ffffff;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  width: 100px;
+  height: 30px;
+}
